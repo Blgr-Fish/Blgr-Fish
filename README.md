@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blgr-Fish
 - 👀 I’m interested in video game developement 
-- 🌱 I’m currently learning python and GDscript
+- 🌱 I’m currently learning python and GDscript and C++
 
 <!---
 Blgr-Fish/Blgr-Fish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
