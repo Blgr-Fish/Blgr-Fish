@@ -1,5 +1,5 @@
 - Ethical Hacking enjoyer
-- Python, C++, C, HTML/CSS/JS, 
+- Python, C++, HTML/CSS/JS, 
 - Currently learning TypeScript
 
 <!---
