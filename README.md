@@ -8,7 +8,7 @@ class BlgrFish : public Profile {
     // Myself
     std::string nickname = "Blgr-Fish";
     int age = 18 ;
-    std::string location = "Nantes, France 🇫🇷";
+    std::string location = "Nantes, France";
 
     // My skills
     std::vector<std::string> spokenLanguages = { "French", "English", "Spanish" };
