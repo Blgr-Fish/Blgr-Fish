@@ -26,4 +26,18 @@ class BlgrFish : public Profile {
 
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blgr-fish&show_icons=true&theme=radical)
+  <a href="https://github.com/blgr-fish" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blgr-fish&theme=radical&layout=compact" />
+  </a>
+  <br>
+  <a href="https://github.com/blgr-fish">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=blgr-fish&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  </a>
+  <br>
+  <a href="https://github.com/blgr-fish">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blgr-fish&repo=Cosmic-Simula&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/blgr-fish">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blgr-fish&repo=Blgr-Fish.github.io&theme=radical&show_owner=true" />
+  </a>
+
