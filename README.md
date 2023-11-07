@@ -27,7 +27,7 @@ class BlgrFish : public Profile {
 ```
 
   <a href="https://github.com/blgr-fish" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blgr-fish&theme=radical&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blgr-fish&theme=radical&layout=pie" />
   </a>
   <br>
   <a href="https://github.com/blgr-fish">
