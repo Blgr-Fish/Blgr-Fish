@@ -25,3 +25,5 @@ class BlgrFish : public Profile {
 };
 
 ```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blgr-fish&show_icons=true&theme=radical)
