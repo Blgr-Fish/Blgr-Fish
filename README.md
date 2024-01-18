@@ -7,7 +7,7 @@ class BlgrFish : public Profile {
   private:
     // Myself
     std::string nickname = "Blgr-Fish";
-    int age = 18 ;
+    int age = 19 ;
     std::string location = "Nantes, France";
 
     // My skills
