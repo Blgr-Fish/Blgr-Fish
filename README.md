@@ -6,14 +6,14 @@ class BlgrFish : public Profile {
 
   private:
     // Myself
-    std::string nickname = "Blgr-Fish";
+    std::string nickname = "f_ish_";
     int age = 19 ;
     std::string location = "Nantes, France";
 
     // My skills
     std::vector<std::string> spokenLanguages = { "French", "English", "Spanish" };
-    std::vector<std::string> skills = { "Python" , "C++" , "HTML" , "CSS" , "JavaScript" , "TypeScript" };
-    std::vector<std::string> interests = { "CyberSecurity" , "Video Games" };
+    std::vector<std::string> skills = { "Python" , "C++" , "Java" };
+    std::vector<std::string> interests = { "CyberSecurity" , "Video Games", "Music" };
 
   public:
     virtual void getLinks() override {
