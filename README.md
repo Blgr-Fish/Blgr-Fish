@@ -1,30 +1,7 @@
-```c++
-#include <iostream>
-#include <vector>
+French
 
-class BlgrFish : public Profile {
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=u5ume&gstats=show&style=light)
 
-  private:
-    // Myself
-    std::string nickname = "f_ish_";
-    int age = 19 ;
-    std::string location = "Nantes, France";
-
-    // My skills
-    std::vector<std::string> spokenLanguages = { "French", "English", "Spanish" };
-    std::vector<std::string> skills = { "Python" , "C++" , "Java" };
-    std::vector<std::string> interests = { "CyberSecurity" , "Video Games", "Music" };
-
-  public:
-    virtual void getLinks() override {
-
-      std::cout << "Twitter : https://twitter.com/f_ish_"  << std::endl;
-      std::cout << "RootMe  : https://www.root-me.org/u5ume" << std::endl;
-
-    }
-};
-
-```
 
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blgr-fish&theme=radical&layout=pie" />
